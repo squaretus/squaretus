@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   </a> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
   </a> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> 
@@ -21,4 +22,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=squaretus)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squaretus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
