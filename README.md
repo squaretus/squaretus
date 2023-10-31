@@ -17,4 +17,4 @@
   </a> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus)](https://git.io/streak-stats)
