@@ -18,9 +18,9 @@
   </a> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Some stats:</h3>
+<h3 align="rigth">Some stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats)
+<p align="rigth> "[![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats) </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squaretus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
