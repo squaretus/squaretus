@@ -1,6 +1,6 @@
 ![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake-dark.svg)
 
-<h3 align="left">Codewars expirience:</h3>
+<h3 align="center"># codewars expirience:</h3>
 
 ![image](https://www.codewars.com/users/squaretus/badges/large)
 
@@ -22,6 +22,6 @@
   </a> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Some stats:</h3>
+<h3 align="center"># some stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats)
