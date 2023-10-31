@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake-dark.svg)
+
 ![image](https://www.codewars.com/users/squaretus/badges/large)
 
 <h3 align="left">Languages, tools and technologies that I use:</h3>
@@ -21,5 +23,3 @@
 <h3 align="left">Some stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake-dark.svg)
