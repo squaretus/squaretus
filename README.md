@@ -21,3 +21,5 @@
 <h3 align="left">Some stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake.svg)
