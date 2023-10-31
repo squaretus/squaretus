@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squaretus&show_icons=true&theme=material-palenight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
