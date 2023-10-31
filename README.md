@@ -1,6 +1,6 @@
 ![image](https://www.codewars.com/users/squaretus/badges/large)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, tools and technologies that I use:</h3>
 
 <p align="left">
   </a> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
