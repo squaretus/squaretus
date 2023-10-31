@@ -1,5 +1,7 @@
 ![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake-dark.svg)
 
+<h3 align="left">Codewars expirience:</h3>
+
 ![image](https://www.codewars.com/users/squaretus/badges/large)
 
 <h3 align="left">Languages, tools and technologies that I use:</h3>
