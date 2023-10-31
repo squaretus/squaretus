@@ -20,7 +20,7 @@
 
 <h3 align="rigth">Some stats:</h3>
 
-<p align="rigth"> [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats) </p>
+<p align="right"> [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats) </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squaretus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
