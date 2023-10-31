@@ -1,8 +1,8 @@
-![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake-dark.svg)
-
 <h3 align="center"># codewars expirience:</h3>
 
-![image](https://www.codewars.com/users/squaretus/badges/large)
+<p align="center">
+  <img src="https://www.codewars.com/users/squaretus/badges/large" alt="CodeWars Badges" />
+</p>
 
 <h3 align="center"># languages, tools and technologies that I use:</h3>
 
@@ -29,3 +29,5 @@
     <img src="https://streak-stats.demolab.com/?user=squaretus&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+
+![Snake animation](https://github.com/squaretus/squaretus/blob/output/github-contribution-grid-snake-dark.svg)
