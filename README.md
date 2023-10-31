@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://www.codewars.com/users/squaretus/badges/large)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -21,5 +21,3 @@
 <h3 align="left">Some stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=squaretus&theme=dark)](https://git.io/streak-stats)
-
-![image](https://www.codewars.com/users/squaretus/badges/large)
